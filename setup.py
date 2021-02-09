@@ -57,13 +57,13 @@ install_requires = [
     "dojson>=1.4.0",
     "idutils>=1.1.7",
     "invenio-jsonschemas>=1.1.0",
-    "invenio-records>=1.5.0a1,<2.0.0",
-    "invenio-records-rest>=1.4.0,<2.0.0",
-    "invenio-records-ui>=1.2.0a1,<2.0.0",
-    "invenio-drafts-resources>=0.7.2,<0.8.0",
-    "invenio-records-resources>=0.9.6,<0.10.0",
-    "invenio-records-permissions>=0.10.0,<0.11.0",
-    "invenio-vocabularies>=0.1.6,<1.0.0",
+    "invenio-records>=1.5.0a1",
+    "invenio-records-rest>=1.4.0",
+    "invenio-records-ui>=1.2.0a1",
+    "invenio-drafts-resources>=0.7.2",
+    "invenio-records-resources>=0.9.6,<0.12.0",
+    "invenio-records-permissions>=0.10.0",
+    "invenio-vocabularies>=0.1.6",
 ]
 
 packages = find_packages()
